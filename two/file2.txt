@@ -1,3 +1,8 @@
 "Hello very silly person"
+<<<<<<< HEAD
 "oh my hello again"
 "please stop following me"
+=======
+"Another line uh oh"
+"AHHHHHHH"
+>>>>>>> 9d4bd45bce291b56f60267ef0439e2671b8e2497
