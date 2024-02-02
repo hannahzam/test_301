@@ -1,3 +1,7 @@
 "Hello very silly person"
 "oh my hello again"
 "please stop following me"
+<<<<<<< HEAD
+=======
+"oh hello again, i so sad"
+>>>>>>> test
